@@ -1,1 +1,4 @@
 This is a text file for git hub basics y’all.
+
+This is another line.
+Omg this isn’t as scary as I thought it was.
